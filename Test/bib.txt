@@ -1,0 +1,90 @@
+I2G
+@inproceedings{wagh2015attendance,
+  title={Attendance system based on face recognition using eigen face and PCA algorithms},
+  author={Wagh, Priyanka and Thakare, Roshani and Chaudhari, Jagruti and Patil, Shweta},
+  booktitle={2015 International Conference on Green Computing and Internet of Things (ICGCIoT)},
+  pages={303--308},
+  year={2015},
+  organization={IEEE}
+}
+
+FE
+@inproceedings{benedict2016geometric,
+  title={Geometric shaped facial feature extraction for face recognition},
+  author={Benedict, Saranya R and Kumar, J Satheesh},
+  booktitle={2016 IEEE International Conference on Advances in Computer Applications (ICACA)},
+  pages={275--278},
+  year={2016},
+  organization={IEEE}
+}
+
+PE
+@article{trivedi16detecting,
+  title={Detecting the Severity and the Type of Learning Disability with Pattern Extraction Using Machine Learning},
+  author={Trivedi, Mr Viraj and Patel, Miss Dhwani and Shah, Miss Kajol and Shah, Miss Krina},
+  journal={dyslexia},
+  volume={16},
+  pages={18}
+}
+
+3.1
+@article{katara2017attendance,
+  title={Attendance System Using Face Recognition and Class Monitoring System},
+  author={Katara, Arun and Kolhe, Mr Sudesh V and Zilpe, Mr Amar P and Bhele, Mr Nikhil D and Bele, Mr Chetan J},
+  journal={International Journal on Recent and Innovation Trends in Computing and Communication},
+  volume={5},
+  number={2},
+  pages={273--276},
+  year={2017}
+}
+
+3.2
+@article{chao2015facial,
+  title={Facial expression recognition based on improved local binary pattern and class-regularized locality preserving projection},
+  author={Chao, Wei-Lun and Ding, Jian-Jiun and Liu, Jun-Zuo},
+  journal={Signal Processing},
+  volume={117},
+  pages={1--10},
+  year={2015},
+  publisher={Elsevier}
+}
+
+All
+@inproceedings{shah2021face,
+  title={Face recognition-based automated attendance system},
+  author={Shah, Kunjal and Bhandare, Dhanashree and Bhirud, Sunil},
+  booktitle={International Conference on Innovative Computing and Communications},
+  pages={945--952},
+  year={2021},
+  organization={Springer}
+}
+
+@phdthesis{chin2018face,
+  title={Face recognition based automated student attendance system},
+  author={Chin, Howard},
+  year={2018},
+  school={UTAR}
+}
+
+4
+OpenCV: Cascade Classifier, https://docs.opencv.org/3.4/db/d28/tutorialcascadeclassifier.html. Accessed 31 Dec 2019
+
+3.3 
+@article{jadhav2017automated,
+  title={Automated attendance system using face recognition},
+  author={Jadhav, Akshara and Jadhav, Akshay and Ladhe, Tushar and Yeolekar, Krishna},
+  journal={International Research Journal of Engineering and Technology (IRJET)},
+  volume={4},
+  number={01},
+  year={2017}
+}
+
+3.4
+@inproceedings{lukas2016student,
+  title={Student attendance system in classroom using face recognition technique},
+  author={Lukas, Samuel and Mitra, Aditya Rama and Desanti, Ririn Ikana and Krisnadi, Dion},
+  booktitle={2016 International Conference on Information and Communication Technology Convergence (ICTC)},
+  pages={1032--1035},
+  year={2016},
+  organization={IEEE}
+}

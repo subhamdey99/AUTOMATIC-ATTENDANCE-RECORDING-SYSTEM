@@ -1,0 +1,11 @@
+id,name,1,2,3,4,5,6,7,8,9,10
+a1,abc,p,p,p,p,p,p,p,,p,p
+a2,bcd,p,p,p,p,p,p,p,,,p
+a3,cde,,p,,p,,p,,p,p,p
+a4,def,p,p,,p,p,,p,,p	
+a5,efg,p,p,p,,,p,,,p,p
+a6,fgh,p,p,,p,,p,p,p
+a7,ghi,p,,p,,p,p,,p,p
+a8,hij,,p,,p,p,p,,,p,p
+a9,ijk,p,p,,,p,,p,p
+a10,jkl,p,p,,p,,p,,,p
